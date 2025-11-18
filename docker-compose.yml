@@ -24,7 +24,7 @@ services:
         "spring.datasource.username" : "root",
         "spring.datasource.password" : "root",
         "spring.jpa.hibernate.ddl-auto" : "update"
-      }'
+        }'
     stdin_open: true
     tty: true
     
